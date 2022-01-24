@@ -175,7 +175,7 @@ const ProfileForm = ({
         <div className="form-group">
           <textarea
             placeholder="A short bio of yourself"
-            name="bio"
+            name="bio" 
             value={bio}
             onChange={onChange}
           />
